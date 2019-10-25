@@ -1,6 +1,6 @@
 # flutter_notekeeper
 
-A new Flutter project.
+Simple flutter notekeeper app that implements CRUD functions in SQLflite database. A praoject from the tutorial of Smartherd.
 
 ## Getting Started
 
